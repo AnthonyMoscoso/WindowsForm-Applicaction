@@ -1,0 +1,8 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Mappers.ManualMapper\bin\Debug\netstandard2.0\Core.Mappers.ManualMapper.deps.json
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Mappers.ManualMapper\bin\Debug\netstandard2.0\Core.Mappers.ManualMapper.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Mappers.ManualMapper\bin\Debug\netstandard2.0\Core.Mappers.ManualMapper.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Mappers.ManualMapper\obj\Debug\netstandard2.0\Core.Mappers.ManualMapper.AssemblyInfoInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Mappers.ManualMapper\obj\Debug\netstandard2.0\Core.Mappers.ManualMapper.AssemblyInfo.cs
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Mappers.ManualMapper\obj\Debug\netstandard2.0\Core.Mappers.ManualMapper.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Mappers.ManualMapper\obj\Debug\netstandard2.0\Core.Mappers.ManualMapper.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Mappers.ManualMapper\obj\Debug\netstandard2.0\Core.Mappers.ManualMapper.pdb

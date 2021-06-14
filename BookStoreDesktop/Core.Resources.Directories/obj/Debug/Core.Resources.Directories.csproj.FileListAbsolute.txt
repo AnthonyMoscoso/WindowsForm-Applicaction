@@ -1,0 +1,5 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Resources.Directories\bin\Debug\Core.Resources.Directories.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Resources.Directories\bin\Debug\Core.Resources.Directories.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Resources.Directories\obj\Debug\Core.Resources.Directories.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Resources.Directories\obj\Debug\Core.Resources.Directories.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Resources.Directories\obj\Debug\Core.Resources.Directories.pdb

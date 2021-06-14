@@ -1,0 +1,5 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.Validates\bin\Debug\Business.Validates.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.Validates\bin\Debug\Business.Validates.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.Validates\obj\Debug\Business.Validates.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.Validates\obj\Debug\Business.Validates.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.Validates\obj\Debug\Business.Validates.pdb

@@ -1,0 +1,5 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Businness.Utilities\bin\Debug\Businness.Utilities.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Businness.Utilities\bin\Debug\Businness.Utilities.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Businness.Utilities\obj\Debug\Businness.Utilities.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Businness.Utilities\obj\Debug\Businness.Utilities.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Businness.Utilities\obj\Debug\Businness.Utilities.pdb

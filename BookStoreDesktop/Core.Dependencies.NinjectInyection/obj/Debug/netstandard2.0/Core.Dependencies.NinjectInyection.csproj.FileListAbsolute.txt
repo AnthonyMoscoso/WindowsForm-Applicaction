@@ -1,0 +1,8 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Dependencies.NinjectInyection\bin\Debug\netstandard2.0\Core.Dependencies.NinjectInyection.deps.json
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Dependencies.NinjectInyection\bin\Debug\netstandard2.0\Core.Dependencies.NinjectInyection.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Dependencies.NinjectInyection\bin\Debug\netstandard2.0\Core.Dependencies.NinjectInyection.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Dependencies.NinjectInyection\obj\Debug\netstandard2.0\Core.Dependencies.NinjectInyection.AssemblyInfoInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Dependencies.NinjectInyection\obj\Debug\netstandard2.0\Core.Dependencies.NinjectInyection.AssemblyInfo.cs
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Dependencies.NinjectInyection\obj\Debug\netstandard2.0\Core.Dependencies.NinjectInyection.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Dependencies.NinjectInyection\obj\Debug\netstandard2.0\Core.Dependencies.NinjectInyection.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Dependencies.NinjectInyection\obj\Debug\netstandard2.0\Core.Dependencies.NinjectInyection.pdb

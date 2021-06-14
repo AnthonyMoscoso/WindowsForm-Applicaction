@@ -1,0 +1,12 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\bin\Debug\netstandard2.0\Domain.Dto.deps.json
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\bin\Debug\netstandard2.0\Domain.Dto.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\bin\Debug\netstandard2.0\Domain.Dto.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\bin\Debug\netstandard2.0\Core.Models.Entities.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\bin\Debug\netstandard2.0\Core.Models.Entities.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\obj\Debug\netstandard2.0\Domain.Dto.csproj.AssemblyReference.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\obj\Debug\netstandard2.0\Domain.Dto.AssemblyInfoInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\obj\Debug\netstandard2.0\Domain.Dto.AssemblyInfo.cs
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\obj\Debug\netstandard2.0\Domain.Dto.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\obj\Debug\netstandard2.0\Domain.Dto.csproj.CopyComplete
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\obj\Debug\netstandard2.0\Domain.Dto.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Dto\obj\Debug\netstandard2.0\Domain.Dto.pdb

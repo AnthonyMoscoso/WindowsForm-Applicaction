@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Business.AutoMapper\Business.AutoMapper.csproj" />
+    <ProjectReference Include="..\Core.DataAccess.Database\Core.DataAccess.Database.csproj" />
+    <ProjectReference Include="..\Core.Models.Entities\Core.Models.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

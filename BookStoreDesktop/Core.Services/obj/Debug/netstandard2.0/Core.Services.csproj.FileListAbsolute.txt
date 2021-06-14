@@ -1,0 +1,16 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Core.Services.deps.json
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Core.Services.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Core.Services.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Business.AutoMapper.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Core.DataAccess.DataBase.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Core.Models.Entities.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Business.AutoMapper.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Core.DataAccess.DataBase.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\bin\Debug\netstandard2.0\Core.Models.Entities.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\obj\Debug\netstandard2.0\Core.Services.csproj.AssemblyReference.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\obj\Debug\netstandard2.0\Core.Services.AssemblyInfoInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\obj\Debug\netstandard2.0\Core.Services.AssemblyInfo.cs
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\obj\Debug\netstandard2.0\Core.Services.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\obj\Debug\netstandard2.0\Core.Services.csproj.CopyComplete
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\obj\Debug\netstandard2.0\Core.Services.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.Services\obj\Debug\netstandard2.0\Core.Services.pdb

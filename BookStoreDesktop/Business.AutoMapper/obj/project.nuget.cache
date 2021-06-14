@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rR11LtUC6jYHuibKJiCzS/SKEsyecomORoWMBVEAICa7vE/t6Blx/UNm3eV5ij3rmXxvI/oUJAiLXuMIY+Q3CQ==",
+  "success": true,
+  "projectFilePath": "E:\\ProyectosProgramacion\\BookShop\\DesktopApp\\BookStoreDesktop\\Business.AutoMapper\\Business.AutoMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

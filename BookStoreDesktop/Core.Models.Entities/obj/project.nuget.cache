@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYHV1pnuzbqaR9MpKD7jAMxmAOI9b98un0rbihW4fMcjzm1EAMqYTKzGsKxEMgl8V7C3ODBsmfci5r+FjBuJdw==",
+  "success": true,
+  "projectFilePath": "E:\\ProyectosProgramacion\\BookShop\\DesktopApp\\BookStoreDesktop\\Core.Models.Entities\\Core.Models.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Estanterias\LibroEstante.cs~RF1650febb.TMP" />
+    <None Remove="Library\BookTypeDto.cs~RF12a1666e.TMP" />
+    <None Remove="Library\EditionDto.cs~RF15de2bc6.TMP" />
+    <None Remove="Library\OrderLineDto.cs~RF166aa10c.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Models.Entities\Core.Models.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

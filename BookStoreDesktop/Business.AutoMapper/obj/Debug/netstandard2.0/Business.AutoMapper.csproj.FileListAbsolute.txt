@@ -1,0 +1,9 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\bin\Debug\netstandard2.0\Business.AutoMapper.deps.json
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\bin\Debug\netstandard2.0\Business.AutoMapper.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\bin\Debug\netstandard2.0\Business.AutoMapper.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\obj\Debug\netstandard2.0\Business.AutoMapper.AssemblyInfoInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\obj\Debug\netstandard2.0\Business.AutoMapper.AssemblyInfo.cs
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\obj\Debug\netstandard2.0\Business.AutoMapper.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\obj\Debug\netstandard2.0\Business.AutoMapper.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\obj\Debug\netstandard2.0\Business.AutoMapper.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Business.AutoMapper\obj\Debug\netstandard2.0\Business.AutoMapper.csproj.AssemblyReference.cache

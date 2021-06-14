@@ -1,0 +1,10 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\bin\Debug\UI.Library.Reciclers.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\bin\Debug\UI.Library.Reciclers.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\obj\Debug\UI.Library.Reciclers.Views.AdapterView.resources
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\obj\Debug\UI.Library.Reciclers.Views.EnumAdapterView.resources
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\obj\Debug\UI.Library.Reciclers.Views.ReciclerView.resources
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\obj\Debug\UI.Library.Reciclers.Views.StringAdapterView.resources
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\obj\Debug\UI.Library.Reciclers.csproj.GenerateResource.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\obj\Debug\UI.Library.Reciclers.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\obj\Debug\UI.Library.Reciclers.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Reciclers\obj\Debug\UI.Library.Reciclers.pdb

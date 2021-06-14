@@ -1,0 +1,6 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.DataBase\bin\Debug\Infra.DataAccess.DataBase.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.DataBase\bin\Debug\Infra.DataAccess.DataBase.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.DataBase\obj\Debug\Infra.DataAccess.DataBase.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.DataBase\obj\Debug\Infra.DataAccess.DataBase.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.DataBase\obj\Debug\Infra.DataAccess.DataBase.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.DataBase\obj\Debug\Infra.DataAccess.DataBase.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Events\bin\Debug\UI.Library.Events.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Events\bin\Debug\UI.Library.Events.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Events\obj\Debug\UI.Library.Events.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Events\obj\Debug\UI.Library.Events.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.Events\obj\Debug\UI.Library.Events.pdb

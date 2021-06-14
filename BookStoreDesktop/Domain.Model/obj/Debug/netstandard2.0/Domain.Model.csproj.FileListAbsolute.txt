@@ -1,0 +1,8 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Model\bin\Debug\netstandard2.0\Domain.Model.deps.json
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Model\bin\Debug\netstandard2.0\Domain.Model.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Model\bin\Debug\netstandard2.0\Domain.Model.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.AssemblyInfoInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.AssemblyInfo.cs
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Domain.Model\obj\Debug\netstandard2.0\Domain.Model.pdb

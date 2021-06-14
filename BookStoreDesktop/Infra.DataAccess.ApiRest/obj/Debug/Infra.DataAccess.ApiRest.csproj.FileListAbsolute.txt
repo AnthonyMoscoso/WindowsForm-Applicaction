@@ -1,0 +1,5 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.ApiRest\bin\Debug\Infra.DataAccess.ApiRest.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.ApiRest\bin\Debug\Infra.DataAccess.ApiRest.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.ApiRest\obj\Debug\Infra.DataAccess.ApiRest.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.ApiRest\obj\Debug\Infra.DataAccess.ApiRest.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.ApiRest\obj\Debug\Infra.DataAccess.ApiRest.pdb

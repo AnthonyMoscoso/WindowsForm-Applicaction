@@ -1,0 +1,8 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.Files\bin\Debug\netstandard2.0\Infra.DataAccess.Files.deps.json
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.Files\bin\Debug\netstandard2.0\Infra.DataAccess.Files.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.Files\bin\Debug\netstandard2.0\Infra.DataAccess.Files.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.Files\obj\Debug\netstandard2.0\Infra.DataAccess.Files.AssemblyInfoInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.Files\obj\Debug\netstandard2.0\Infra.DataAccess.Files.AssemblyInfo.cs
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.Files\obj\Debug\netstandard2.0\Infra.DataAccess.Files.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.Files\obj\Debug\netstandard2.0\Infra.DataAccess.Files.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Infra.DataAccess.Files\obj\Debug\netstandard2.0\Infra.DataAccess.Files.pdb

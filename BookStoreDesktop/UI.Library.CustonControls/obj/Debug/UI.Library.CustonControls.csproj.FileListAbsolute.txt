@@ -1,0 +1,14 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\bin\Debug\UI.Library.CustonControls.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\bin\Debug\UI.Library.CustonControls.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.csproj.AssemblyReference.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.CustomDataGridView.resources
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.csproj.GenerateResource.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\bin\Debug\UI.Library.Events.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\bin\Debug\UI.Library.Events.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.csproj.CopyComplete
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.SearchPanel.resources
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.Properties.Resources.resources
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\UI.Library.CustonControls\obj\Debug\UI.Library.CustonControls.PaginatorCustomControl.resources

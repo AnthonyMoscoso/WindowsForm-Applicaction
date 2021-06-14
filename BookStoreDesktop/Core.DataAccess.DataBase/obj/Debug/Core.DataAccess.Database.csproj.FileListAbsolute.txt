@@ -1,0 +1,5 @@
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.DataAccess.Database\bin\Debug\Core.DataAccess.DataBase.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.DataAccess.Database\bin\Debug\Core.DataAccess.DataBase.pdb
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.DataAccess.Database\obj\Debug\Core.DataAccess.Database.csproj.CoreCompileInputs.cache
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.DataAccess.Database\obj\Debug\Core.DataAccess.DataBase.dll
+E:\ProyectosProgramacion\BookShop\DesktopApp\BookStoreDesktop\Core.DataAccess.Database\obj\Debug\Core.DataAccess.DataBase.pdb
